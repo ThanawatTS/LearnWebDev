@@ -1,4 +1,6 @@
-"# LearnWebDev" 
+# LearnWebDev
 
--Front end
-	basic html
+## Front end
+
+	* basic html
+	* basic css
